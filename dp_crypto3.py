@@ -10,7 +10,7 @@
 # Warning - no cert warnings,
 # and verify = False in code below prevents verification
 
-# CVE 2020 NEW BY TERRARIA
+# CVE 2020 ReMix
 
 import sys
 import base64
